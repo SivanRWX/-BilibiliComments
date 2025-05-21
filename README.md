@@ -132,21 +132,21 @@ wts 时间戳		可以time模块获取当前时间戳
 
 
 
-![QQ20250518-215242](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-215242.png)
+![QQ20250518-215242](img/QQ20250518-215242.png)
 
 
 
-![QQ20250518-211132](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-211132.png)
+![QQ20250518-211132](img/QQ20250518-211132.png)
 
 
 
 
 
-![QQ20250518-215817](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-215817.png)
+![QQ20250518-215817](img/QQ20250518-215817.png)
 
 **MD5加密**
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-220019.png)
+![](img/QQ20250518-220019.png)
 
 
 
@@ -156,9 +156,9 @@ wts 时间戳		可以time模块获取当前时间戳
 
 点击弹幕地址：https://api.bilibili.com/x/v1/dm/list.so?oid=226204073
 
-![QQ20250518-151100](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-151100.png)
+![QQ20250518-151100](img/QQ20250518-151100.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-151523.png)
+![](img/QQ20250518-151523.png)
 
 
 
@@ -166,7 +166,7 @@ wts 时间戳		可以time模块获取当前时间戳
 
 F12进入浏览器开发者模式，点击网络面板，点开弹幕列表，搜索栏输入seg.so抓该名称的包，在请求头获取请求地址
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-161318.png)
+![](img/QQ20250518-161318.png)
 
 
 
@@ -196,7 +196,7 @@ F12进入浏览器开发者模式，点击网络面板，点开弹幕列表，�
 
 
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250518-175255.png)
+![](img/QQ20250518-175255.png)
 
 
 
@@ -204,26 +204,26 @@ F12进入浏览器开发者模式，点击网络面板，点开弹幕列表，�
 
 #### 弹幕
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211402.png)
+![](img/QQ20250519-211402.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211418.png)
+![](img/QQ20250519-211418.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250520-092929.png)
+![](img/QQ20250520-092929.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250520-092934.png)
+![](img/QQ20250520-092934.png)
 
 
 
 #### 评论
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211743.png)
+![](img/QQ20250519-211743.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211451.png)
+![](img/QQ20250519-211451.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211500.png)
+![](img/QQ20250519-211500.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211505.png)
+![](img/QQ20250519-211505.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211510.png)
+![](img/QQ20250519-211510.png)
 
-![](E:\PyCharm2023.3pro\MyProject\Normal\BilibiliComments\img\QQ20250519-211515.png)
+![](img/QQ20250519-211515.png)
